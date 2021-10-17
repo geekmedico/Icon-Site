@@ -1,5 +1,32 @@
 # Changelog
 
+## Version 6.3.95
+
+- 100 New Icons
+- Updated
+  - `account-key-outline`
+  - `account-key`
+  - `car-key`
+  - `cellphone-key`
+  - `file-key`
+  - `folder-key-network-outline`
+  - `folder-key-network`
+  - `folder-key-outline`
+  - `folder-key`
+  - `key-arrow-right`
+  - `key-change`
+  - `key-link`
+  - `key-minus`
+  - `key-outline`
+  - `key-plus`
+  - `key-remove`
+  - `key-star`
+  - `key-wireless`
+  - `key`
+  - `script-text-key-outline`
+  - `script-text-key`
+  - `table-key`
+
 ## Version 6.2.95
 
 - 100 New Icons
