@@ -1,5 +1,42 @@
 # Changelog
 
+## Version 6.4.95
+
+- 100 New Icons
+- Updated
+  - `account-lock-outline`
+  - `account-lock`
+  - `align-horizontal-center`
+  - `align-horizontal-left`
+  - `align-horizontal-right`
+  - `align-vertical-bottom`
+  - `align-vertical-center`
+  - `align-vertical-top`
+  - `copyright`
+  - `currency-eur-off`
+  - `currency-eur`
+  - `elevator-passenger`
+  - `ev-plug-ccs1`
+  - `ev-plug-ccs2`
+  - `ev-plug-chademo`
+  - `ev-plug-type1`
+  - `ev-plug-type2`
+  - `food-off`
+  - `food`
+  - `football`
+  - `hockey-sticks`
+  - `panorama-horizontal`
+  - `panorama-vertical`
+  - `panorama-wide-angle`
+  - `soccer`
+  - `surround-sound-2-0`
+  - `surround-sound-2-1`
+  - `surround-sound-3-1`
+  - `surround-sound-5-1-2`
+  - `surround-sound-5-1`
+  - `surround-sound-7-1`
+  - `volleyball`
+
 ## Version 6.3.95
 
 - 100 New Icons
