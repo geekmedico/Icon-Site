@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 6.5.95
+
+- 100 New Icons
+
 ## Version 6.4.95
 
 - 100 New Icons
