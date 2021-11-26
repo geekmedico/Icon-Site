@@ -7,7 +7,7 @@ Consider using the [webcomponent version](https://github.com/JamesCoyle/svg-icon
 
 MDI can be used in conjunction with the [Vue Icon Component](https://www.npmjs.com/package/@jamescoyle/vue-icon). See the [README in the repo](https://www.npmjs.com/package/@jamescoyle/vue-icon) for more usage information. 
 
-# Basic Usage
+## Basic Usage
 
 1. Install from NPM
    ```bash
@@ -20,7 +20,7 @@ MDI can be used in conjunction with the [Vue Icon Component](https://www.npmjs.c
    import { mdiAccount } from '@mdi/js'
    ```
 
-## SFC Example
+### SFC Example
 The following example shows how you might use an icon within a single file component.
 
 ```html
