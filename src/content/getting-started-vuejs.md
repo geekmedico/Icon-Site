@@ -10,12 +10,12 @@ MDI can be used in conjunction with the [Vue Icon Component](https://www.npmjs.c
 # Basic Usage
 
 1. Install from NPM
-   ```
+   ```bash
    npm install @mdi/js @jamescoyle/vue-icon
    ```
 
 2. Import into your project
-   ``` 
+   ```js
    import SvgIcon from '@jamescoyle/vue-icon'
    import { mdiAccount } from '@mdi/js'
    ```
@@ -23,7 +23,7 @@ MDI can be used in conjunction with the [Vue Icon Component](https://www.npmjs.c
 ## SFC Example
 The following example shows how you might use an icon within a single file component.
 
-```
+```html
 <template>
   <svg-icon type="mdi" :path="path"></svg-icon>
 </template>
