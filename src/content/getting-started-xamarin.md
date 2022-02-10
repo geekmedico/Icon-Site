@@ -70,6 +70,24 @@ Also on IOS (It's never easy with Apple!) you have to include the file in the in
     FontSize="Medium" />
 ```
 
+Binding Icons
+
+ ```xml
+<Button Text="{Binding Icon}"
+    TextColor="Green"
+    BackgroundColor="Transparent"
+    FontFamily="{StaticResource IconFont}"
+    FontSize="Medium" />
+```
+
+ ```c#
+public string Icon {get; set;}
+
+Icon = "\U000F01D9";
+//Add \U000 "U" character must be capital
+```
+
+
  As you can see, you can set the rest of the Text formatting as normal Color, Size etc and these will also work from CSS if you using that new and very cool ability within XamarinForms, if your not now is your chance to go look at the docs [XamarinForms with CSS](https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/styles/css/)
 
  ## But what about Selecting your Icons
